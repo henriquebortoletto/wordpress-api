@@ -1,3 +1,4 @@
-## Sobre
+## About
 
-Construção de uma api no wordpress para ser consumida no front.
+Serving wordpress as an API for frontend consumption.
+
